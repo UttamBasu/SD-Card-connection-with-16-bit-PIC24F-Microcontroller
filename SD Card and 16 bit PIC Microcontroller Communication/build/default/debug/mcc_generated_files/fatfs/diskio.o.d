@@ -1,0 +1,9 @@
+build/default/debug/mcc_generated_files/fatfs/diskio.o: \
+ mcc_generated_files/fatfs/diskio.c mcc_generated_files/fatfs/diskio.h \
+ mcc_generated_files/fatfs/integer.h mcc_generated_files/fatfs/sdspi.h
+
+mcc_generated_files/fatfs/diskio.h:
+
+mcc_generated_files/fatfs/integer.h:
+
+mcc_generated_files/fatfs/sdspi.h:
